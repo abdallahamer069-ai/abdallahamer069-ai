@@ -19,8 +19,7 @@ Focused on designing structured data systems, building scalable data warehouses,
 
 ### Programming & Databases
 - Python  
-- SQL  
-- MySQL  
+- SQL    
 - SQL Server  
 - Git  
 
