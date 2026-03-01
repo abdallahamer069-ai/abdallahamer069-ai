@@ -1,41 +1,76 @@
-![ViewCount](https://komarev.com/ghpvc/?username=abdallahamer069-ai)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdallahamer069-ai&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
-# Abdallah Mohamed
+<h1 align="center">👋 Hi, I'm Abdallah Mohamed</h1>
 
-**Data Engineer | Data Warehousing | ETL | Data Modeling**
+<h3 align="center">
+Data Engineer | Data Warehousing | ETL | Data Modeling
+</h3>
 
-Focused on designing structured data systems, building scalable data warehouses, and transforming raw data into meaningful business insights.
-
----
-
-## 🛠 Technical Skills
-
-### Data Engineering
-- Data Warehouse Design  
-- Star Schema & Data Marts  
-- ETL Development  
-- Data Modeling  
-- Query Optimization  
-
-### Programming & Databases
-- Python  
-- SQL    
-- SQL Server  
-- Git  
+<p align="center">
+🚀 Building scalable data systems | Turning raw data into business insights
+</p>
 
 ---
 
-## 📊 Projects
+## 🚀 About Me
 
-**Enterprise Data Warehouse Project**
-- Designed Star Schema  
-- Built Fact & Dimension Tables  
-- Developed ETL Process for Data Transformation  
-- Optimized SQL Queries for Reporting  
+🔥 Passionate about designing structured data architectures  
+📊 Expert in Data Warehouse & Star Schema Design  
+🔄 Building efficient ETL pipelines  
+💡 Focused on performance & clean data modeling  
 
 ---
 
-## 📫 Contact
+## 🛠 Tech Stack
 
-🔗 LinkedIn: https://www.linkedin.com/in/abdallah-mohamed-114a81329  
-🐙 GitHub: https://github.com/abdallahamer069-ai  
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahamer069-ai&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahamer069-ai&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahamer069-ai&theme=radical"/>
+</p>
+
+---
+
+## 📊 Featured Project
+
+🚀 **Enterprise Data Warehouse**
+- Designed Star Schema
+- Built Fact & Dimension Tables
+- Developed ETL Processes
+- Optimized Query Performance
+
+---
+
+## 📬 Connect With Me
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/abdallah-mohamed-114a81329  
+
+🐙 GitHub:  
+https://github.com/abdallahamer069-ai  
+
+---
+
+<p align="center">
+⭐ "Good Data Architecture = Scalable Intelligence"
+</p>
