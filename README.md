@@ -1,59 +1,42 @@
-![ViewCount](https://komarev.com/ghpvc/?username=your-username)
+![ViewCount](https://komarev.com/ghpvc/?username=abdallahamer069-ai)
 
-### Hi there 👋 I'm Abdallah Mohamed,
+# Abdallah Mohamed
 
-A Data Engineer passionate about designing structured, scalable data systems and transforming business requirements into well-modeled data architectures 📊.
+**Data Engineer | Data Warehousing | ETL | Data Modeling**
 
-I focus on building clean Data Warehouses, designing Star Schemas, and creating efficient ETL processes.
-
-- 🏗️ Specialized in **Data Warehousing & Data Modeling**
-- 📊 Strong experience in **Star Schema & Data Marts Design**
-- 🔄 Building and optimizing **ETL Pipelines**
-- 🗄️ Transforming OLTP systems into OLAP structures
-- ⚡ I believe every complex system becomes simple with the right data model.
+Focused on designing structured data systems, building scalable data warehouses, and transforming raw data into meaningful business insights.
 
 ---
 
-### 💡 Areas of Interest
+## 🛠 Technical Skills
 
-- Data Warehousing  
-- Data Modeling  
+### Data Engineering
+- Data Warehouse Design  
+- Star Schema & Data Marts  
 - ETL Development  
-- Business Intelligence  
-- Database Optimization  
+- Data Modeling  
+- Query Optimization  
+
+### Programming & Databases
+- Python  
+- SQL  
+- MySQL  
+- SQL Server  
+- Git  
 
 ---
 
-### 🛠️ My Skills Include
+## 📊 Projects
 
-<p align="center">
-
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img title="SQL Server" alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-</p>
+**Enterprise Data Warehouse Project**
+- Designed Star Schema  
+- Built Fact & Dimension Tables  
+- Developed ETL Process for Data Transformation  
+- Optimized SQL Queries for Reporting  
 
 ---
 
-### 📊 What I Work On
+## 📫 Contact
 
-- 🔹 Designing Enterprise Data Warehouse Architectures  
-- 🔹 Building Sales, HR & Inventory Data Marts  
-- 🔹 Creating Fact & Dimension Tables  
-- 🔹 Writing optimized SQL queries  
-- 🔹 Data Transformation & Cleaning  
-
----
-
-### 📫 Let's Connect
-
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your-email@example.com
-- 🐙 GitHub: https://github.com/your-username
-
----
-
-⭐ *“Good data models turn raw data into business intelligence.”*
+🔗 LinkedIn: https://www.linkedin.com/in/abdallah-mohamed-114a81329  
+🐙 GitHub: https://github.com/abdallahamer069-ai  
